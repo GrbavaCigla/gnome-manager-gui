@@ -1,0 +1,3 @@
+albert,enabled,'sudo apt-get install albert','sudo enable','sudo disable'
+dashtodock,disabled,'sudo apt-get install dashtodock','sudo enable','sudo disable'
+plank,enabled,'sudo apt-get install plank','sudo enable','sudo disable'
