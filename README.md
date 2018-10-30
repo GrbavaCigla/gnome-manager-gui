@@ -1,2 +1,2 @@
-# GnomeManagerGUI
-Gnome manager written in python.
+# **__UNFINISHED CODE__**
+
