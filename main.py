@@ -81,6 +81,7 @@ class StartPage(tk.Frame):
         buttons2=[]
         buttons3=[]
         for j,i in enumerate(packages):
+            #UNFINISHED CODE
 ##            button1=ttk.Button(self,text="Enable",command=lambda:clickmanager('e',j))
 ##            button2=ttk.Button(self,text="Disable",command=lambda:clickmanager('d',j))
 ##            button3=ttk.Button(self,text="Install",command=lambda:clickmanager('i',j))
